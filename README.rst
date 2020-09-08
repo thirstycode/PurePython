@@ -12,12 +12,9 @@ Quick start
 
 - Use the package in your code. Example below:
 
-    from PurePython import PurePython
-
-    try:
-        PurePython().DownloadInstagramPhoto("https://www.instagram.com/p/CE3lS08g8Ks/")
-    except Exception as e:
-        print(e)
+    ```sh
+    $ python3 file_server.py
+    ```
 
 - Please visit below link for more details and source code.
 
