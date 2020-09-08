@@ -10,15 +10,15 @@ Quick start
 
     pip install PurePython
 
-- Use the package in your code. Example below::
-`
-    from PurePython import PurePython
+- Use the package in your code. Example below:
+```
+from PurePython import PurePython
 
-    try:
-        PurePython().DownloadInstagramPhoto("https://www.instagram.com/p/CE3lS08g8Ks/")
-    except Exception as e:
-        print(e)
-`
+try:
+    PurePython().DownloadInstagramPhoto("https://www.instagram.com/p/CE3lS08g8Ks/")
+except Exception as e:
+    print(e)
+```
 
 - Please visit below link for more details and source code.
 
